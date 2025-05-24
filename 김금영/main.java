@@ -7,6 +7,8 @@ public class main {
 
         System.out.println("dev");
 
+        System.out.println("main");
+
     }
 
     
