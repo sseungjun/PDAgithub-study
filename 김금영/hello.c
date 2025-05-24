@@ -10,4 +10,6 @@ int main(void) {
     printf("제 장래희망은 developer에용 ");
 
     printf(" merge 확인용");
+
+    printf("main");
 }
