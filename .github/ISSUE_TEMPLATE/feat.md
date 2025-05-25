@@ -2,9 +2,8 @@
 name: FEAT
 about: 기능 추가
 title: "[FEAT]"
-labels: ''
-assignees: ''
-
+labels: "⚙ FEAT"
+assignees: ""
 ---
 
 ## 📋 기능 추가 개요
