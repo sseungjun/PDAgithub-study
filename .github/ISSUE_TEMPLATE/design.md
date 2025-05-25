@@ -2,9 +2,8 @@
 name: DESIGN
 about: 디자인 변경
 title: "[DESIGN]"
-labels: ''
-assignees: ''
-
+labels: "💄 DESIGN"
+assignees: ""
 ---
 
 ## 🧐 변경 사유
