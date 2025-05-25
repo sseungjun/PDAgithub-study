@@ -1,12 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
+int main(void) {
+    printf("my name is kimgeumyoung");
 
-int main(void){
-
-
-	printf("my name is kimgeumyoung");
-
-	return 0;}
-
-
-
+    return 0;
+}
