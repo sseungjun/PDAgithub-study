@@ -2,9 +2,8 @@
 name: BUG
 about: 버그 수정
 title: "[BUG]"
-labels: bug
-assignees: ''
-
+labels: "🐛 BUG"
+assignees: ""
 ---
 
 ## 🚨 문제 상황
