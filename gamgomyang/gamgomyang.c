@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("my name is conflict_resolver123123123");
+    printf("my name is conflict_practice");
 
     return 0;
 }
