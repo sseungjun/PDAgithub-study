@@ -2,7 +2,8 @@
 
 int main(void) {
 
-    printf("my name is conflict_solver");
+    printf("my name is conflict_resolver");
+
 
     return 0;
 }
